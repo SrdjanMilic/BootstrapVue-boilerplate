@@ -1,4 +1,7 @@
-# bootstrap-vue-boilerplate
+# BootstrapVue boilerplate
+
+With bootstrapp ready stylesheet to override colors and other variables.  
+Also, there is custom.scss file already included.
 
 ## Project setup
 ```
@@ -24,6 +27,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 sources:  
-https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/
-https://blog.carbonteq.com/bootrap-custom-scss-with-vue-cli-in-5-mins/
-https://getbootstrap.com/docs/4.0/getting-started/theming/
+https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/  
+https://blog.carbonteq.com/bootrap-custom-scss-with-vue-cli-in-5-mins/  
+https://getbootstrap.com/docs/4.0/getting-started/theming/  
