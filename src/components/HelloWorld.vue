@@ -1,10 +1,10 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <div>
-      <b-button>Button</b-button>
-      <b-button variant="danger">Button</b-button>
-      <b-button variant="success">Button</b-button>
+    <div class="mb-4">
+      <b-button class="mr-2">Button</b-button>
+      <b-button variant="danger" class="mr-2">Button</b-button>
+      <b-button variant="success" class="mr-2">Button</b-button>
       <b-button variant="outline-primary">Button</b-button>
     </div>
 
